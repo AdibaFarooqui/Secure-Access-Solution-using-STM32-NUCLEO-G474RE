@@ -148,6 +148,6 @@ Core/
 Drivers/
 Middlewares/
 STM32G474RETX_FLASH.ld
-<project>.ioc
+secure_access_rtos.ioc
 README.md
 .gitignore
