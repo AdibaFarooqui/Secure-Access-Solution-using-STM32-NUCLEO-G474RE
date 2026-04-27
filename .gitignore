@@ -1,0 +1,48 @@
+# macOS
+.DS_Store
+
+# STM32CubeIDE / Eclipse build folders
+Debug/
+Release/
+build/
+
+# STM32CubeIDE generated temporary / debug files
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+*.srec
+*.su
+*.cyclo
+*.d
+*.o
+*.a
+
+# Local debug / launch files
+*.launch
+
+# Logs / temp files
+*.log
+*.tmp
+
+# CubeProgrammer / ST-LINK temp outputs
+ST-LINK_GDB_server_*.*
+STM32CubeProgrammer_*.*
+*.stldr
+
+# Backup / editor noise
+*~
+*.swp
+*.swo
+
+# VS Code local settings
+.vscode/
+
+# CLion / other IDEs
+.idea/
+cmake-build-*/
+
+# Python junk if any helper scripts are added later
+__pycache__/
+*.pyc
